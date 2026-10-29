@@ -1,0 +1,23 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#daf0ff"/>
+      <stop offset="100%" stop-color="#f8fcff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#sky)"/>
+  <rect x="90" y="180" width="720" height="340" rx="16" fill="#f5f7fb" stroke="#c7d8f7" stroke-width="6"/>
+  <rect x="130" y="140" width="640" height="70" rx="12" fill="#0b3f9e"/>
+  <text x="175" y="185" fill="#ffffff" font-family="Arial" font-size="33" font-weight="700">HEALTHCARE WELLNESS CENTER</text>
+  <rect x="130" y="240" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="280" y="240" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="430" y="240" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="580" y="240" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="130" y="360" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="280" y="360" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="430" y="360" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="580" y="360" width="120" height="90" rx="8" fill="#dce7ff"/>
+  <rect x="360" y="430" width="180" height="90" rx="12" fill="#0b3f9e"/>
+  <path d="M80 520C180 420 260 430 360 520H80Z" fill="#96c77d"/>
+  <path d="M540 520C640 430 720 430 820 520H540Z" fill="#92bf74"/>
+</svg>

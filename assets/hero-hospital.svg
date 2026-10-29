@@ -1,0 +1,26 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3f7ff"/>
+      <stop offset="100%" stop-color="#dce8ff"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dce9ff"/>
+      <stop offset="100%" stop-color="#f6fbff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="80" y="120" width="920" height="640" rx="28" fill="url(#panel)"/>
+  <rect x="1040" y="140" width="480" height="620" rx="24" fill="#ffffff" opacity="0.75"/>
+  <rect x="180" y="280" width="250" height="360" rx="20" fill="#f7d5bf"/>
+  <circle cx="305" cy="235" r="78" fill="#f0c2a6"/>
+  <rect x="462" y="250" width="370" height="390" rx="26" fill="#e6f0ff"/>
+  <circle cx="650" cy="220" r="88" fill="#e8c1aa"/>
+  <path d="M482 455C560 420 720 420 812 455V640H482V455Z" fill="#ffffff"/>
+  <rect x="618" y="392" width="80" height="120" rx="20" fill="#ffffff"/>
+  <rect x="1150" y="230" width="250" height="20" rx="10" fill="#c5d6f8"/>
+  <rect x="1150" y="270" width="300" height="20" rx="10" fill="#c5d6f8"/>
+  <rect x="1150" y="310" width="220" height="20" rx="10" fill="#c5d6f8"/>
+  <rect x="1150" y="390" width="180" height="54" rx="27" fill="#0b3f9e"/>
+  <text x="90" y="850" fill="#5673aa" font-family="Arial" font-size="38">Hospital Care Illustration</text>
+</svg>

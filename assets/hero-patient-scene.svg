@@ -1,0 +1,50 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#edf3ff"/>
+      <stop offset="100%" stop-color="#dfe8f8"/>
+    </linearGradient>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f7f9fd"/>
+      <stop offset="100%" stop-color="#eef2f8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1600" height="900" fill="url(#wall)" opacity="0.72"/>
+
+  <!-- Patient bed -->
+  <rect x="120" y="470" width="920" height="240" rx="22" fill="#d8e6fb"/>
+  <rect x="120" y="380" width="350" height="130" rx="26" fill="#c9dcf6"/>
+  <rect x="120" y="720" width="930" height="28" rx="10" fill="#b9cce9"/>
+
+  <!-- Patient body -->
+  <ellipse cx="620" cy="560" rx="280" ry="120" fill="#8bc4eb"/>
+  <ellipse cx="620" cy="560" rx="250" ry="100" fill="#9fd1f3"/>
+  <circle cx="430" cy="475" r="80" fill="#e8c4aa"/>
+  <path d="M360 505C390 468 465 464 498 500L515 522C470 557 402 558 353 525L360 505Z" fill="#8b8f98"/>
+
+  <!-- Doctor -->
+  <circle cx="1220" cy="270" r="96" fill="#e7bea4"/>
+  <path d="M1115 340C1160 306 1278 300 1338 346L1328 510C1248 550 1158 548 1082 504L1115 340Z" fill="#ffffff"/>
+  <path d="M1184 352L1257 352L1250 508L1170 508L1184 352Z" fill="#dfe8f8"/>
+  <path d="M1132 510C1180 530 1266 530 1316 510L1326 652C1248 690 1170 692 1114 658L1132 510Z" fill="#ffffff"/>
+
+  <!-- Stethoscope -->
+  <path d="M1180 468C1180 522 1258 522 1258 468" stroke="#3f4c67" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="1220" cy="534" r="22" fill="#3f4c67"/>
+  <circle cx="1220" cy="534" r="13" fill="#9aa9c5"/>
+
+  <!-- Clipboard -->
+  <path d="M1046 600L1200 560L1246 722L1092 760L1046 600Z" fill="#3f6eb6"/>
+  <rect x="1080" y="598" width="88" height="26" rx="8" transform="rotate(-14 1080 598)" fill="#87b7f2"/>
+
+  <!-- IV stand -->
+  <rect x="72" y="120" width="10" height="430" rx="5" fill="#c6ccd8"/>
+  <rect x="40" y="120" width="72" height="8" rx="4" fill="#c6ccd8"/>
+  <rect x="92" y="162" width="26" height="84" rx="10" fill="#e6f0ff" stroke="#c6d5ee" stroke-width="4"/>
+  <path d="M110 246C195 280 224 362 224 434" stroke="#a3b2c9" stroke-width="5"/>
+
+  <!-- Soft vignette -->
+  <rect width="1600" height="900" fill="#000000" opacity="0.03"/>
+</svg>
